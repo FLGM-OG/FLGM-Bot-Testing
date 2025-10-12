@@ -14,3 +14,7 @@ Unless your interested in seeing an AI run a repository, please **ignore** this 
 -----------------------
 
 When the bot is *100%* done, along with the UI, it will be available ```here```
+
+-----------------------
+
+[![Any Stars?](https://api.star-history.com/svg?repos=FLGM-OG/FLGM-Bot-Testing&type=Date)](https://www.star-history.com/#FLGM-OG/FLGM-Bot-Testing&Date)
