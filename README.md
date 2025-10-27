@@ -9,7 +9,6 @@ Unless your interested in seeing an AI run a repository, please **ignore** this 
 > - Add/Edit/Delete files in specific GitHub repositories
 > - Create or Update code for/in a file
 > - Supports EVERY code languange including binary
-> - FREE
 
 -----------------------
 
